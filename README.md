@@ -14,4 +14,4 @@ The main research question we will be answering is "how does sleep deprivation a
 [Project Report](docs/project_report.md)
 
 ## Link to Shiny App: 
-[Shiny App](https://phuongkvu.shinyapps.io/info201agsleepdeprivation/)
+[Shiny App](https://phuongkvu.shinyapps.io/info201sleepdeprivation/)
