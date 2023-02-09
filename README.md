@@ -16,5 +16,3 @@ The main research question we will be answering is "How does sleep deprivation a
 ## Link to Shiny App: 
 [Shiny App](https://phuongkvu.shinyapps.io/info201sleepdeprivation/)
 <br />
-
-*Copyrights: This project is a project for INFO201: Technical Foundations course. If you have any questions or feedback regarding this project, please let us know at [Phuong's email](mailto:prokhanhphuong@gmail.com)* 
